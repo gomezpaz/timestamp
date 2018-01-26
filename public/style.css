@@ -1,0 +1,48 @@
+.back {
+  background-image: url("https://cdn.glitch.com/88f9c575-0ed9-4576-abf4-d89dd5c5442a%2Fhex-pattern1.jpg?1516950713061");
+  z-index: 1
+}
+
+.app {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -195px;
+  margin-left: -250px;
+  height: 390px;
+  width: 500px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: white;
+  z-index: 0;
+}
+
+.title1 {
+  margin-top: 10px;
+  font-size: 40px;
+  font-weight: 400
+}
+
+.title2 {
+  color: grey;
+  font-weight: 100;
+  margin-bottom: 8px
+}
+
+.title3 {
+  font-size: 25px;
+  font-weight: 400
+}
+
+.plainText {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.box {
+  margin: 0 auto;
+  width: 450px; 
+}
+
+.name {
+  margin-top: 20px
+}
