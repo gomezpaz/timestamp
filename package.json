@@ -1,5 +1,5 @@
 {
-  "name": "my-glitch-app",
+  "name": "focdec-timestamp",
   "version": "0.0.1",
   "description": "Basic node.js timestamp API",
   "main": "server.js",
