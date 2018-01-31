@@ -1,0 +1,25 @@
+{
+  "name": "focdec-timestamp",
+  "version": "0.0.1",
+  "description": "Basic node.js timestamp API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "dateformat": "^3.0.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/sgomezpaz/timestamp"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
